@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ROB1NL
-- 👀 I’m interested in python3, guitar, martials arts, sciences
-- 🌱 I’m currently learning Russian
+- 👀 I’m interested in python, guitar, martials arts, sciences
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me --> lerlfr3@gmail.com
 
